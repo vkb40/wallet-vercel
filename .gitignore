@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.zip
+*.log
+.DS_Store
+.env
+.vercel
